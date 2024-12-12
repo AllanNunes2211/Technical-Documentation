@@ -1,4 +1,4 @@
-# Technical-Documentation
+# Technical Documentation
 
 # Overview:
 
@@ -58,8 +58,6 @@ This project is a Technical Documentation Page designed to present information a
 
 A styled scrollbar is included for modern browsers to enhance the visual consistency of the interface.
 
-------------
-
 ## Technologies Used:
 
 - HTML: Structure and content of the page.
@@ -69,12 +67,12 @@ A styled scrollbar is included for modern browsers to enhance the visual consist
 - Media queries for responsiveness.
 - CSS variables for theme consistency
 
-## Intended Use:
-###This project can serve as:
+## Intended Use
+### This project can serve as:
 
 - An educational resource for beginners learning web development concepts.
 - A template for technical documentation or knowledge bases. A showcase of responsive design and CSS styling techniques.
 
---------------
+---
 
 ***This project demonstrates a balance of functionality, aesthetics, and user experience, making it a versatile base for various technical documentation needs.***
