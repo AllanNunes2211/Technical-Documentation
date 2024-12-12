@@ -42,7 +42,7 @@ This project is a Technical Documentation Page designed to present information a
 
 ### 5. Code Snippets:
 
-- Code examples are presented using the <code> element with custom styling to distinguish them from regular text.
+- Code examples are presented using the element with custom styling to distinguish them from regular text.
 - Syntax highlighting is achieved using a styled background and borders.
 
 ### 6. Smooth Scrolling:
